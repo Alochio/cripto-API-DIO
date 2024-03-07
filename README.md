@@ -14,4 +14,10 @@ Neste repositório foi criado um site simples, onde a ideia do mesmo era somente
 - [API Coinmarketcap](https://coinmarketcap.com/api/)
 
 ## Veja como ficou:
-Link do GitHub pages: Ainda não publicado.
+Para conseguir acessar as informações contídas no site, por conta da API é preciso ter instalado no seu computador a extensão no Chorme: [Moesif CORS](https://chromewebstore.google.com/detail/moesif-origin-cors-change/digfbfaphojjndkpccljibejjbppifbc)
+
+
+Link do GitHub pages: [Cripto | API](https://alochio.github.io/cripto-API-DIO/)
+
+![Image01](./assets/images/desktop.PNG)
+![Image02](./assets/images/cel.PNG)
