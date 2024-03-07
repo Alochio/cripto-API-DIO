@@ -16,15 +16,11 @@ fetch(
   .then((api) => {
     console.log(api);
     var texto = "";
-    for (let i = 0; i < 10; i++) {
-
+    for (let i = 0; i < 100; i++) {
 
     const dataString = api.data[i].first_historical_data;
     const data = new Date(dataString);
     const firstHistoricalDataFormated = `${data.getDate()}/${data.getMonth() + 1}/${data.getFullYear()}`;
-
-
-
     
       texto =
         texto +
