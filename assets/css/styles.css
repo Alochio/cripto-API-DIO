@@ -1,0 +1,22 @@
+#coins{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.media{
+    border: 1px solid black;
+    background: #ffe657 ;
+    margin: .5rem;
+    flex-grow: 1;
+}
+
+.imagem{
+    width: 5rem;
+    margin-left: 1rem;
+}
+
+.name{
+    font-weight: bold;
+}
